@@ -1,0 +1,6 @@
+string,float1,float2,integer
+hello world,1.0,3.3,4
+goodbye world,1e9,-3.3,45
+hello again,-1,23.33,456
+hello world 3,1.40,34.83,4999
+hello 2 world,9981.05,43.33,444

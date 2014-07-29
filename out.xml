@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CsvToXml>
+    <row>
+        <string>hello world</string>
+        <float1>1.0</float1>
+        <float2>3.3</float2>
+        <integer>4</integer>
+    </row>
+    <row>
+        <string>goodbye world</string>
+        <float1>1e9</float1>
+        <float2>-3.3</float2>
+        <integer>45</integer>
+    </row>
+    <row>
+        <string>hello again</string>
+        <float1>-1</float1>
+        <float2>23.33</float2>
+        <integer>456</integer>
+    </row>
+    <row>
+        <string>hello world 3</string>
+        <float1>1.40</float1>
+        <float2>34.83</float2>
+        <integer>4999</integer>
+    </row>
+    <row>
+        <string>hello 2 world</string>
+        <float1>9981.05</float1>
+        <float2>43.33</float2>
+        <integer>444</integer>
+    </row>
+</CsvToXml>
